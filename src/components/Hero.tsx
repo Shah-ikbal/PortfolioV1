@@ -19,7 +19,7 @@ const Hero = () => {
             variants={slideIn}
           >
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-              Hi, I'm <span className="text-primary">John Doe</span>
+              Hi, I'm <span className="text-primary">Shah Ikbal Ahmed</span>
             </h1>
             <p className="text-xl text-dark-300 mb-8">
               Full Stack Developer specializing in building exceptional digital experiences
